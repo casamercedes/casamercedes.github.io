@@ -1,0 +1,167 @@
+/*INICIO*/
+img{
+	max-width: 60%;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 80px;
+
+}
+
+.espacio-top{
+	margin-top: 40px;
+
+}
+.espacio-fotos{
+	margin-top: 20px;
+
+}
+.espacio150{
+	margin-top: 160px;
+
+}
+.pacifico{
+	font-family: 'pacifico', cursive;
+}
+.titulo{
+	color:#223B1D
+}
+.grande{
+	font-size: 3.5em;
+}
+.mediano{
+	font-size: 2.5em;
+}
+.peque{
+	font-size:1.1em;
+	margin-top:15px;
+	color: #223B1D
+}
+.verde{
+	color:#B5E374
+}
+.grande2{
+	font-size:1.8em;
+	margin-top: -4px;
+}
+.grande3{
+	font-size:1.2em;
+	color:#8EE33D;
+}
+.espacio-derecha{
+	margin-right:1em;
+}
+.verde a{
+	color:#B5E374;
+}
+.grande3 a{
+	color:#8EE33D;
+}
+a:hover{
+	color: #A17259;
+}
+/*ANIMACIONES*/
+.retraso1{
+	-webkit-animation-delay:1s;
+	-moz-animateion-delay:1s;
+	animation-delay: 1s;
+}
+.retraso2{
+	-webkit-animation-delay:1.5s;
+	-moz-animateion-delay:1.5s;
+	animation-delay: 1.5s;
+}
+.retraso3{
+	-webkit-animation-delay:2s;
+	-moz-animateion-delay:2s;
+	animation-delay: 1s;
+}
+/*MENÚ*/
+
+.no-lista a{
+	color:#FBFFE6;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.se-verde{
+	background-color:#172B12;
+	
+}
+.padding-largo{
+	padding: 5px 10px;
+
+}
+.no-lista{
+	margin: 0px;
+	padding:0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.casa-peque{
+	width: 16.3%;
+	margin-top: 100px;
+}
+.casa-grande{
+	width: 15%;
+	margin-top: 100px;
+
+}
+.mapa{
+	max-height: 90%;
+	max-width:90%;
+	height:400px;
+	width: 600px ;
+	padding:10px 10px;
+	border: 1px solid #4f7a2d;
+	background: #476246;
+	border-radius: 10px;	
+}
+/*CONTACTO*/
+.mediano{
+	font-size:2em;
+	color: #172B12;
+}
+.mediano2{
+	font-size:1.5em;
+	color:#B5E374;
+}
+.contacto{
+	
+	margin: auto;
+	margin-top: 30px;
+	max-height: 90%;
+	max-width:90%;
+	height:250px;
+	width: 380px ;
+	padding:10px 10px;
+	border: 5px solid #172B12;
+	background: #476246;
+	border-radius: 10px;	
+}
+
+.fotos{
+	
+	margin: auto;
+	margin-top: 30px;
+	max-height: 90%;
+	max-width:90%;
+	height:auto;
+	width: auto ;
+	padding:10px 10px;
+	border: 5px solid #172B12;
+	background: #476246;
+	border-radius: 10px;	
+}
+
+body {
+	background: url("../img/IMG_1913_001.JPG") no-repeat fixed center center #FCFFDE;
+	background-size: cover;
+	color:#E8CCAD;
+}
